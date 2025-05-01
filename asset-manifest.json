@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/birthday/static/css/main.b43a46bb.css",
+    "main.js": "/birthday/static/js/main.dbb9c78c.js",
+    "static/media/my_bro.png": "/birthday/static/media/my_bro.f80b9d1b52933d55296c.png",
+    "static/media/nigth.png": "/birthday/static/media/nigth.fe6e0639c889efc9460d.png",
+    "static/media/git.jpg": "/birthday/static/media/git.a681fc6143497adf44c9.jpg",
+    "static/media/jimin.png": "/birthday/static/media/jimin.a42036cf42c915eadedc.png",
+    "static/media/you.jpg": "/birthday/static/media/you.b5a9353e9d4a78ccde88.jpg",
+    "static/media/boring.png": "/birthday/static/media/boring.e59604862cca62e2c394.png",
+    "static/media/yeeeah.jpg": "/birthday/static/media/yeeeah.6028a74eb0728f117e69.jpg",
+    "static/media/youy.jpg": "/birthday/static/media/youy.a0367d8fc2011fb74b04.jpg",
+    "static/media/sad.jpg": "/birthday/static/media/sad.c0dfec50fe0eed103f12.jpg",
+    "static/media/Yoongi.png": "/birthday/static/media/Yoongi.ef2d873a4b17e7b9750b.png",
+    "static/media/jjj.png": "/birthday/static/media/jjj.96f95c0c2f2c74396022.png",
+    "static/media/andry.png": "/birthday/static/media/andry.241485d3492f7a7ebed1.png",
+    "index.html": "/birthday/index.html",
+    "main.b43a46bb.css.map": "/birthday/static/css/main.b43a46bb.css.map",
+    "main.dbb9c78c.js.map": "/birthday/static/js/main.dbb9c78c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b43a46bb.css",
+    "static/js/main.dbb9c78c.js"
+  ]
+}
